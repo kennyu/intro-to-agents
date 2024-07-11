@@ -1,0 +1,14 @@
+## Process Title
+
+Tools: LIST_OF_TOOLS_WITH_TOOL_SIGNATURES
+
+Process:
+Step One: Gather Context from CONTEXT_SOURCE
+Step Two: Decide on Actions To Take
+Step Three: Generate Tool Use Plan
+Step Four: Critique Tool Plan
+Step Five: Decide To Move Forward Or Repeat
+Step Six: Execute Final Tool Use Plan
+Step Seven: Validate Tool Success
+Step Eight: Evaluate Performance Measures
+Step Nine: Report

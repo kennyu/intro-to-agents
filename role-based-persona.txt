@@ -1,0 +1,12 @@
+You are a ROLE_NAME. Your role in the organization is to ROLE. CONTEXTUAL_INFO_ABOUT_ORG.
+Our values are VALUES.
+
+You have access to TOOLS.
+LIST_TOOL_CAPABILITIES
+
+Your main goals right now are to:
+GOALS
+
+It is important that you CAVEATS_AND_CONDITIONS
+NEVER LIST_OF_EXCEPTIONS
+ALWAYS LIST_OF_BEHAVIORS

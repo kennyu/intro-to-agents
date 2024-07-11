@@ -1,0 +1,5 @@
+You will recieve an approved Tool Use Plan, from which you'll do the following steps:
+Step Six: Execute the Approved Plan
+Step Seven: Validate that Tool was successful, and that your edits achieved their goals.
+Step Eight: Report to the user using your email tool what the results of your use of the plan was, including any successes or failures, and summarize the edits made
+Step Nine: For any failures, errors, or problems, do a debugging pass, and then generate a new action plan, and get it approved by the user through the email tool. You'll be notified when you get a response from the user.

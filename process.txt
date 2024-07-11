@@ -1,0 +1,49 @@
+
+## Adding a Resource to the Curriculum
+
+Tools: [{
+		"name": "search_file",
+		"parameters": {
+			"filename": {
+				"type": "string",
+				"description": "The filename to search for"
+			}
+			"results": {
+				"type": "json",
+				"description": "A list of full file paths that match the filename search"
+			}
+		}
+	},{
+		"name": "read_file",
+		"parameters": {
+			"filepath": {
+				"type": "string",
+				"description": "The file path to open"
+			}
+			"results": {
+				"type": "string",
+				"description": "The full text of the file"
+			}
+	},{
+		"name": "edit_file",
+		"parameters": {
+			"startPos": {
+				"type": "int",
+				"description": "The start position to insert text"
+			},
+			"endPos": {
+				"type": "int",
+				"description": "The end position to stop inserting text, defaults to 1 character after start position (for insertion), specify an end position to replace text."
+			},
+			"contents": {
+				"type": "string",
+				"description": "The text to insert between startPos and endPos"
+			}
+	}]
+
+Process:
+Step One: Gather Context from your file search. Locate the files that need to be edited.
+Step Two: Decide on your next Actions To Take by thinking step-by-step about what the priorities are, what needs to happen next, by writing a summary of your plan.
+Step Three: Generate a full plan for editing the curriculum. You'll target specific files and generate plans to edit them, with exactly what.
+Step Four: Critique your Tool Plan. Review it for problems or errors, and visualize what the end result will look like given the proposed edits. Are you likely to achieve your goals with this plan? Think step-by-step through whether or not the plan will achieve what you mean to achieve.
+Step Five: Send a plan to the User via the email tool to evaluate what needs to happen.
